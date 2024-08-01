@@ -1,2 +1,2 @@
 wait("0.2")
-loadstring(game:HttpGet('https://rentry.co/udtfzdxp/raw',true))()
+loadstring(game:HttpGet('https://rentry.co/xs3cbza9/raw',true))()
